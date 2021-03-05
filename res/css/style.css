@@ -1,0 +1,35 @@
+@font-face{
+  /* font-family: "permanent-marker";
+  src: url(../../PermanentMarker-Regular.ttf) */
+  font-family: "lobster-regular";
+  src: url(../../Lobster-Regular.ttf)
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(241, 108, 0);
+}
+.form-group{
+  align-items: center;
+}
+
+/*navbar styles*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*media queries*/
+@media screen and (min-width: 768px) {
+   ul li a.d-none{
+    /*display:inline;*/
+   }
+}
